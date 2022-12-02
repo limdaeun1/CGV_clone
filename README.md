@@ -1,6 +1,6 @@
 # 👋 CGV 홈페이지 클론코딩
 
-![스크린샷 2022-11-23 오후 9.02.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2e8dfd3-e0be-4e71-b63f-7ca37b24eda7/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-11-23_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.02.46.png)
+<img width="865" alt="스크린샷 2022-11-23 오후 9 02 46" src="https://user-images.githubusercontent.com/110998265/205258402-0d1e65fb-b018-4b2d-ad6e-25fae8f26291.png">
 
 ## [🖥  시연영상 보기](https://www.youtube.com/watch?v=2m26rEdvcxs)
 
@@ -37,7 +37,7 @@
 
 # 📕 와이어 프레임
 
-![클론코딩 와이어프레임.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/624dafd3-13ec-4f55-a8a6-050177043eae/%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.png)
+![클론코딩 와이어프레임](https://user-images.githubusercontent.com/110998265/205258472-32db4bb1-5bfc-44ba-ba0b-4adc0b6179d4.png)
 
 # 🤝 MEMBER
 
